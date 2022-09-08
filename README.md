@@ -9,7 +9,7 @@ While gathering these data, specific attributes were obtained from the target pa
 Metadata
 
 Columns
-*PatientId:     UniqueId for each patient record
+* PatientId:     UniqueId for each patient record
 *AppointmentId: Id for each patient
 *Neighborhood:  Information about the hospital geographic location
 *SMS_Recieved:  Stating whether patients received SMS about their appointments
