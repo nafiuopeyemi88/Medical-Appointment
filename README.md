@@ -23,6 +23,9 @@ Columns
 * Handcap:       Stating whether patient is handicapped
 * Age:           Patient's age
 
+This exploratory analysis seeks to answer questions such as 
+* What are the attributes that influcences a patient's decision to show or not show for the medical appointments
+* How related and connnected are these attributes
 
 Results of the analysis
 
