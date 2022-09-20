@@ -1,6 +1,6 @@
 # Medical_Appointment
 
-The medical appointment takes a deep dive in to a medical appointment dataset from some hospitals in brazil, in a bid to understanding why patients fail to meet up with their scheduled appointments
+The medical appointment project takes a deep dive in to a medical appointment dataset from some hospitals in brazil, in a bid to understanding why patients fail to meet up with their scheduled appointments
 This project investigates a medical appointment dataset, towards providing answers to questions that arise from such dataset. The dataset was collected from patients in some selected Brazillian hospitals.
 
 
